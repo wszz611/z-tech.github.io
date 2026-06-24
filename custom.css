@@ -1,4 +1,5 @@
-/* 隐藏文章列表右侧的绿色日期 */
-.list-item .Label.Label--success {
+.list-item > .Label:last-child,
+.post-item > .Label:last-child,
+.sidebar-list-item > .Label:last-child {
     display: none !important;
 }
