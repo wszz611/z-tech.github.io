@@ -1,7 +1,4 @@
-.issue-item .Label LabelTime {
-  display: none !important;
-}
-/* 可选：文章详情页顶部日期一并隐藏 */
-.post-header .post-date {
-  display: none !important;
+/* 隐藏文章列表右侧的绿色日期 */
+.list-item .Label.Label--success {
+    display: none !important;
 }
