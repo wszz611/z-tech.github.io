@@ -1,0 +1,7 @@
+.issue-item .date-tag {
+  display: none !important;
+}
+/* 可选：文章详情页顶部日期一并隐藏 */
+.post-header .post-date {
+  display: none !important;
+}
