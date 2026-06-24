@@ -1,5 +1,1 @@
-.list-item > .Label:last-child,
-.post-item > .Label:last-child,
-.sidebar-list-item > .Label:last-child {
-    display: none !important;
-}
+.list-item .LabelTime { display: none !important; }
